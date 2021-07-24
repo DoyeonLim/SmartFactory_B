@@ -1,2 +1,2 @@
-# Smart-Factory-B-Team
+# SmartFactory_B
 UCI SECOM
