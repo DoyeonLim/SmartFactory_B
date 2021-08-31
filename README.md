@@ -37,9 +37,7 @@
 - Recall(재현율)
 - Precision(정밀도)
 
-
-![image](https://user-images.githubusercontent.com/64139953/131427377-2f1b119d-caf2-47ee-a864-a547c297a39a.png)
-
+![image](https://user-images.githubusercontent.com/64139953/131429624-e6533840-9dbe-4dbd-b7a0-805ad2721298.png)
 
 ## 결론
 - 2가지로 진행한 방법에 따른 결과 추이가 보이지 않음
