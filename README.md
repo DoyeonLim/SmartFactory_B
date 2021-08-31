@@ -45,6 +45,14 @@
 - 2가지로 진행한 방법에 따른 결과 추이가 보이지 않음
 - GridSearchCV로 하이퍼 파라미터 조정을 통해 예측성능이 향상됨
 
+![image](https://user-images.githubusercontent.com/64139953/131428503-8ad26cce-ebfd-4176-9564-eefd237c7fd1.png)
+
+![image](https://user-images.githubusercontent.com/64139953/131428517-dfb9e6a5-9963-4815-99f9-3c0a3eb45efc.png)
+
+![image](https://user-images.githubusercontent.com/64139953/131428523-d2db5845-7b8e-41b2-8704-f4a4b425358a.png)
+
+
+
 ➜ **최종적으로, 전처리 방법2를 적용한 뒤 GridSearchCV로 교차검증을 하고 SVM 알고리즘으로 학습시킨 모델이 가장 좋은 예측 성능을 보였다.**
 
 
