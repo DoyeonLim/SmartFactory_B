@@ -1,5 +1,6 @@
 # SmartFactory_B : UCI-SECOM
-[Paper](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.docx) | [PPT](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.pptx)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUAI-CAU%2FSmartFactory_B&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[Paper](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.docx) | [PPT](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.pptx) | Presentation
 ## Members
 - **유찬재**(School of Mechanical Engineering, Chung-Ang University)
 - **최연찬**(School of Mechanical Engineering, Chung-Ang University)
