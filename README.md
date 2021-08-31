@@ -23,7 +23,7 @@
 
 2. 데이터 스케일링
 - Oversampling(오버샘플링)
-- StandardScalre(표준화)
+- StandardScaler(표준화)
 - PCA(주성분 분석)
 
 ## 데이터 모델링
