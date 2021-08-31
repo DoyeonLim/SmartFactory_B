@@ -1,9 +1,9 @@
 # SmartFactory_B : UCI-SECOM
 [Paper](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.docx) | [PPT](https://github.com/CUAI-CAU/SmartFactory_B/blob/main/Final%20Report/2021_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%ACB%ED%8C%80.pptx)
 ## Members
-- 유찬재(School of Mechanical Engineering, Chung-Ang University)
-- 최연찬(School of Mechanical Engineering, Chung-Ang University)
-- 임도연(School of Computer Science and Engineering, Chung-Ang University)
+- **유찬재**(School of Mechanical Engineering, Chung-Ang University)
+- **최연찬**(School of Mechanical Engineering, Chung-Ang University)
+- **임도연**(School of Computer Science and Engineering, Chung-Ang University)
 
 ## 주제 
 반도체 제조 과정에서의 수율 향상을 위한 이진 분류 모델 비교 분석
