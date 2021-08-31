@@ -26,11 +26,11 @@
 - PCA(주성분 분석)
 
 ## 데이터 모델링
-1. XGBoost
-2. SVM
-3. RandomForest
-4. DecisionTree
-5. [Logistic Regression](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/Logistic%20Regression)
+- XGBoost
+- SVM
+- RandomForest
+- DecisionTree
+- [Logistic Regression](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/Logistic%20Regression)
 
 ## 데이터 평가
 - F1_score
