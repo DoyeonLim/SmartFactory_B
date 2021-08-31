@@ -3,7 +3,7 @@
 ## Members
 - **유찬재**(School of Mechanical Engineering, Chung-Ang University)
 - **최연찬**(School of Mechanical Engineering, Chung-Ang University)
-- **임도연**(School of Computer Science and Engineering, Chung-Ang University)
+- **🙋‍♀️임도연**(School of Computer Science and Engineering, Chung-Ang University)
 
 ## 주제 
 반도체 제조 과정에서의 수율 향상을 위한 이진 분류 모델 비교 분석
