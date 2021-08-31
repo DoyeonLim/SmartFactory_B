@@ -41,7 +41,7 @@
 ![image](https://user-images.githubusercontent.com/64139953/131429624-e6533840-9dbe-4dbd-b7a0-805ad2721298.png)
 
 ## 결론
-- 2가지로 진행한 방법에 따른 결과 추이가 보이지 않음
+- 2가지로 진행한 데이터 전처리 방법에 따른 경향성이 보이지 않음
 - GridSearchCV로 하이퍼 파라미터 조정을 통해 예측성능이 향상됨
 
 ![image](https://user-images.githubusercontent.com/64139953/131440956-aef32755-486c-427b-bda1-5726d3db821b.png)
