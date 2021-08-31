@@ -33,9 +33,13 @@
 5. [Logistic Regression](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/Logistic%20Regression)
 
 ## 데이터 평가
-1. F1_score
-2. Recall(재현율)
-3. Precision(정밀도)
+- F1_score
+- Recall(재현율)
+- Precision(정밀도)
+
+
+![image](https://user-images.githubusercontent.com/64139953/131427377-2f1b119d-caf2-47ee-a864-a547c297a39a.png)
+
 
 ## 결론
 - 2가지로 진행한 방법에 따른 결과 추이가 보이지 않음
