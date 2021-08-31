@@ -31,6 +31,7 @@
 - [RandomForest](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/RandomForest)
 - [DecisionTree](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/DecisionTree)
 - [Logistic Regression](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/Logistic%20Regression)
+- (참고) [Linear Regression](https://github.com/CUAI-CAU/SmartFactory_B/tree/main/model/Linear%20Regression(%EC%B0%B8%EA%B3%A0))
 
 ## 데이터 평가
 - F1_score
