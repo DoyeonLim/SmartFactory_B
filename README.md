@@ -44,11 +44,11 @@
 - 2가지로 진행한 방법에 따른 결과 추이가 보이지 않음
 - GridSearchCV로 하이퍼 파라미터 조정을 통해 예측성능이 향상됨
 
-![image](https://user-images.githubusercontent.com/64139953/131440828-09714433-2113-42a1-8868-5449de0f4043.png)
+![image](https://user-images.githubusercontent.com/64139953/131440956-aef32755-486c-427b-bda1-5726d3db821b.png)
 
-![image](https://user-images.githubusercontent.com/64139953/131440855-ee8c6c26-d655-4ff0-a3b9-c778ad3fb1fc.png)
+![image](https://user-images.githubusercontent.com/64139953/131440967-09013489-53e0-47f0-8754-7df7c8600938.png)
 
-![image](https://user-images.githubusercontent.com/64139953/131440865-0ff2e9bd-8c3c-4bbb-9891-6acb92533f77.png)
+![image](https://user-images.githubusercontent.com/64139953/131440980-5ac05c2b-6823-45d1-b030-e3612a655bc0.png)
 
 
 
