@@ -45,11 +45,11 @@
 - 2가지로 진행한 데이터 전처리 방법에 따른 경향성이 보이지 않음
 - GridSearchCV로 하이퍼 파라미터 조정을 통해 예측성능이 향상됨
 
-![image](https://user-images.githubusercontent.com/64139953/131440956-aef32755-486c-427b-bda1-5726d3db821b.png)
+![image](https://user-images.githubusercontent.com/64139953/131492963-ae148f86-34dd-4ed7-b644-2e01a959ffbd.png)
 
-![image](https://user-images.githubusercontent.com/64139953/131440967-09013489-53e0-47f0-8754-7df7c8600938.png)
+![image](https://user-images.githubusercontent.com/64139953/131492995-b3549baa-05e8-413e-9c2e-fd4b35741487.png)
 
-![image](https://user-images.githubusercontent.com/64139953/131440980-5ac05c2b-6823-45d1-b030-e3612a655bc0.png)
+![image](https://user-images.githubusercontent.com/64139953/131493005-abe5b0d1-7cfe-4a4d-8f87-e7d47d21627a.png)
 
 
 
